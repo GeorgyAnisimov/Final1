@@ -37,4 +37,4 @@
 
 ## **Скриншот коммитов**
 
-> ![commit](commit.png)
+> ![commit](commit.PNG)
