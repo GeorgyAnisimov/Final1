@@ -35,3 +35,6 @@
 
 > ![diagram](1.drawio.png)
 
+## **Скриншот коммитов**
+
+> ![commit](commit.png)
